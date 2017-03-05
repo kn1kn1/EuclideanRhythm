@@ -1,4 +1,4 @@
-# EuclideanRhythm
+# EuclideanRhythm [![CircleCI](https://circleci.com/gh/kn1kn1/EuclideanRhythm.svg?style=svg)](https://circleci.com/gh/kn1kn1/EuclideanRhythm)
 
 [Euclidean rhythm](https://en.wikipedia.org/wiki/Euclidean_rhythm) in Ruby
 
