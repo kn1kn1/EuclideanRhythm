@@ -1,6 +1,6 @@
 # EuclideanRhythm
 
-[Euclidean Rhythms](https://en.wikipedia.org/wiki/Euclidean_rhythm) in Ruby
+[Euclidean rhythm](https://en.wikipedia.org/wiki/Euclidean_rhythm) in Ruby
 
 Based on the JavaScript code publised at
 
