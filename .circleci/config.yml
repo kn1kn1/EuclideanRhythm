@@ -1,0 +1,8 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/ruby:2.3-stretch-node
+    steps:
+      - checkout
+      - run: ruby euclidean_rhythm_test.rb

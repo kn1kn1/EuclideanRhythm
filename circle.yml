@@ -1,3 +1,0 @@
-test:
-  override:
-    - ruby euclidean_rhythm_test.rb
