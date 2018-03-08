@@ -1,9 +1,6 @@
 version: 2
 jobs:
   build:
-    branches:
-      only:
-        - feature/circleci-v2
     docker:
       - image: circleci/ruby:2.3-stretch-node
     steps:
